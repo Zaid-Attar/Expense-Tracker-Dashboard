@@ -7,6 +7,6 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["light", "dark", "cyberpunk", "emerald", "forest"]
+    themes: ["light", "dark", "cyberpunk", "emerald", "forest", "luxury"]
   },
 }
