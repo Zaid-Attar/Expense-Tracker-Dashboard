@@ -76,4 +76,3 @@ Open two separate terminal windows from the root directory:
 *(The fully bundled app will be served directly from `http://localhost:4090`)*
 
 ---
-*Built with ❤️ using the MERN stack.*
